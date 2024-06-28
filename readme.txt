@@ -13,3 +13,14 @@ Controls:
     Player 2:
     Move up: Up Arrow key
     Move down: Down Arrow key
+
+Installation
+    Ensure you have Python 3.x installed. You can download it from python.org.
+    Install the Pygame library if you haven't already. You can do this using pip:
+
+     run pip install pygame
+
+How to Run
+    Clone or download the repository to your local machine.
+    Navigate to the directory containing the game files.
+    Run python pong.py
